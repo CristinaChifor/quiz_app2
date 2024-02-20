@@ -4,20 +4,21 @@ button {
     padding: 10px;
     color: white;
     background-color: #007bff;
-    border:none;
-    border-radius: 4px;
+    border: none;
     cursor: pointer;
-}
-
-button:hover {
-    box-shadow: 0 0 7px 0 rgba (0, 0, 0, 0.3);   
+    border-radius: 4px;
+    
 }
 
 .info {
     background-color: goldenrod;
 }
 
+button:hover {
+    box-shadow: 0 0 7px 0 rgba(0, 0, 0, 0.3)
+
+}
+
 li {
     list-style: none;
-
 }
